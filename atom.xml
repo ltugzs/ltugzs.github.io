@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ltugzs.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-04-17T02:26:18.285Z</updated>
+    <title>灵图工作室</title>
+    <updated>2021-04-17T02:46:23.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ltugzs.github.io"/>
     <link rel="self" href="https://ltugzs.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://ltugzs.github.io/images/avatar.png</logo>
     <icon>https://ltugzs.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 灵图工作室</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ltugzs.github.io/post/hello-gridea/</id>
